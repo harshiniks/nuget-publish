@@ -4,7 +4,14 @@
 # https://aka.ms/yaml
 
 trigger: none
-
+resources:
+  packages:
+   - package: nugetPackage
+     type: Nuget
+     version: 2.0.0
+     connection: 'nuget publish'
+     name: nugetTest/OctocatApp
+     trigger: true
 pool:
   vmImage: ubuntu-latest
 
