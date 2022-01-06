@@ -19,4 +19,5 @@ steps:
 - task: DownloadGitHubNugetPackage@1
   inputs:
     packageName: 'harshiniks/OctocatApp'
+    externalEndpoints: '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'
     version: '1.0.0'
