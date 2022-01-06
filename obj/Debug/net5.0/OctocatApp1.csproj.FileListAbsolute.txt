@@ -1,0 +1,15 @@
+/Users/harshiniks/OctocatApp1/bin/Debug/net5.0/OctocatApp1.deps.json
+/Users/harshiniks/OctocatApp1/bin/Debug/net5.0/OctocatApp1.runtimeconfig.json
+/Users/harshiniks/OctocatApp1/bin/Debug/net5.0/OctocatApp1.runtimeconfig.dev.json
+/Users/harshiniks/OctocatApp1/bin/Debug/net5.0/OctocatApp1.dll
+/Users/harshiniks/OctocatApp1/bin/Debug/net5.0/ref/OctocatApp1.dll
+/Users/harshiniks/OctocatApp1/bin/Debug/net5.0/OctocatApp1.pdb
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/OctocatApp1.csprojAssemblyReference.cache
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/OctocatApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/OctocatApp1.AssemblyInfoInputs.cache
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/OctocatApp1.AssemblyInfo.cs
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/OctocatApp1.csproj.CoreCompileInputs.cache
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/OctocatApp1.dll
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/ref/OctocatApp1.dll
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/OctocatApp1.pdb
+/Users/harshiniks/OctocatApp1/obj/Debug/net5.0/OctocatApp1.genruntimeconfig.cache
