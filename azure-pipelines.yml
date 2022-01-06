@@ -18,5 +18,5 @@ steps:
   displayName: 'Run a multi-line script'
 - task: DownloadGitHubNugetPackage@1
   inputs:
-    packageName: 'OctocatApp'
+    packageName: 'harshiniks/OctocatApp'
     version: '1.0.0'
