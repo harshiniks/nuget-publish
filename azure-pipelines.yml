@@ -9,15 +9,8 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
 - task: DownloadGitHubNugetPackage@1
   inputs:
     packageName: 'harshiniks/OctocatApp'
     externalEndpoints: 'f29fce22-5f43-4c06-85bb-8e1452eb78db'
-    version: '1.0.0'
+    version: '2.0.0'
