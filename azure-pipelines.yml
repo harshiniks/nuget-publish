@@ -13,7 +13,7 @@ resources:
      name: nugetTest/OctocatApp
      trigger: true
 pool:
-  vmImage: ubuntu-latest
+  name: harks
 
 steps:
 - task: DownloadGitHubNugetPackage@1
